@@ -17,6 +17,7 @@ const _montserrat = Montserrat({
 export const metadata: Metadata = {
   title: 'Orbit - Streamlined Organization Management for VSU',
   description: 'Orbit is the all-in-one platform designed to simplify organization management for VSU. Say goodbye to semester-long headaches and hello to a streamlined, transparent experience.',
+  metadataBase: new URL("https://orbit-core.vercel.app")
 }
 
 
